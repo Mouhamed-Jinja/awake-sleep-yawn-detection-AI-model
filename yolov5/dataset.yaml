@@ -1,0 +1,6 @@
+train: C:/Users/mmoha/Desktop/newtest/data/train/images
+val: C:/Users/mmoha/Desktop/newtest/data/valid/images
+test: C:/Users/mmoha/Desktop/newtest/data/test/images
+
+nc: 3
+names: ['Neutral', 'Yawn', 'closed eyes']
